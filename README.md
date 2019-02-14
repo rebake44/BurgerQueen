@@ -1,2 +1,2 @@
 # burgerApp
-Yum log application created using Node, Handlebars, MySQL, Express and ORM. 
+Burger logging application created using Node, Handlebars, MySQL, Express and ORM. 
