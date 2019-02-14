@@ -1,2 +1,6 @@
-# BurgerQueen
-A burger logger made with MySQL, Node, Express, Handlebars and a homemade ORM
+# burgerApp
+Yum log application created using Node, Handlebars, MySQL, Express and ORM. 
+
+https://oscars-burger-app.herokuapp.com/
+
+https://oscarjuma.github.io/burgerApp-master/
