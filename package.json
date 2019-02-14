@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OscarJuma/burgerApp-master.git"
+    "url": "git+https://github.com/rebake44/BurgerQueen.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oscarjuma/burgerApp-master/issues"
+    "url": "https://github.com/rebake44/BurgerQueen/issues"
   },
-  "homepage": "https://github.com/oscarjuma/burgerApp-master#readme",
+  "homepage": "https://github.com/rebake44/BurgerQueen/#readme",
   "dependencies": {
     "body-parse": "^0.1.0",
     "express": "^4.16.4",
